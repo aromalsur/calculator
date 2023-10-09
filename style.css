@@ -1,0 +1,18 @@
+#mains{
+  height: 660px;
+  background-color: black;
+  border-radius: 35px;
+  padding-left: 10px;
+  scroll-padding-right: 20px;
+        
+}#mains1{
+width: 350px;
+}
+
+
+
+@media screen and (max-width: 480px) {
+  #mains{
+    height: 100%;
+  }
+}
